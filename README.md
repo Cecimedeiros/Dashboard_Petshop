@@ -17,6 +17,7 @@ O projeto de vizualização dos dados relacionados às vendas dos produtos do pe
    2) Abra o arquivo no Power BI Desktop.
 
 * Contato:
+  
    LinkedIn: www.linkedin.com/in/medeiroscecilia22   
 
 
